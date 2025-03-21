@@ -1,3 +1,3 @@
 # amazon-clone
 
-This is a clone of amazon home page
+This project is a clone of amazon home page
